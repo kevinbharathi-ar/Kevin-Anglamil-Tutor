@@ -1,0 +1,8 @@
+{
+  "name": "Anglamil Tutor",
+  "description": "An AI-powered English learning assistant for Tamil speakers. Features real-time translation, grammar correction, chat practice, and text-to-speech pronunciation.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
